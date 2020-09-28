@@ -8,6 +8,8 @@
 #include "matrix_seqAlign.h" 
 using namespace std; 
 
+//check
+
 int main(){
     int t;
     t=1;
